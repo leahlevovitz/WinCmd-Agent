@@ -2,10 +2,6 @@
 
 > A **local** AI agent that converts natural-language instructions into a single Windows CMD command, with built-in safety rules. No API keys, no cloud.
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Llama_3.1-111111)
-![Gradio](https://img.shields.io/badge/UI-Gradio-FF7C00)
-
 ## Example
 | You type | Agent returns |
 |---|---|
@@ -33,4 +29,4 @@ The prompt was refined through repeated test runs; results are tracked in [this 
 > 🔗 Related: **[AI_Engineering](https://github.com/leahlevovitz/AI_Engineering)**, the prompt-engineering lab with 5 versioned prompts for the same task.
 
 ---
-👩‍💻 Built by **Leah Levovitz** · [LinkedIn](https://www.linkedin.com/in/leahlevovitz) · [GitHub](https://github.com/leahlevovitz)
+👩‍💻 Built by **Leah Levovitz** · [GitHub](https://github.com/leahlevovitz)
